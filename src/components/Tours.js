@@ -1,4 +1,3 @@
-import React from 'react'
 import { tours } from '../data'
 import Tour from './Tour'
 import Title from './Title'

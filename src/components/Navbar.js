@@ -1,4 +1,3 @@
-import React from 'react'
 import logo from './../images/logo.svg'
 import PageLinks from './PageLinks'
 import SocialLinks from './SocialLinks'
